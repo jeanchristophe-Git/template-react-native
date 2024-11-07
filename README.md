@@ -1,8 +1,7 @@
-Voici une description que tu peux utiliser pour ton dépôt GitHub :
 
----
 
 # Template React Native Expo en JavaScript
+---
 
 ## Description
 
